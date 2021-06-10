@@ -1,0 +1,4 @@
+- name: Jupyter notebook to pdf
+  # You may pin to the exact commit or the version.
+  # uses: Thunderxy/ipynb-to-pdf@3c9ee5b4798cf249a9d1b3df57af651a1ed5b7bf
+  uses: Thunderxy/ipynb-to-pdf@v1.0.3
